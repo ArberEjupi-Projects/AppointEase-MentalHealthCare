@@ -1,4 +1,4 @@
-# AppointEase-MentalHealthCare
+# AppointEase
 
 ## Description
 This platform is designed to enable mental health patients to schedule, manage, and receive reminders for their medical appointments. Patients can create an account with their name, surname, phone number, and personal identification number. They also have the option to provide additional information in their profile, such as allergies, general health conditions, and more.
@@ -42,3 +42,18 @@ To get started with the platform as a doctor, follow these steps:
 + Backend: [ASP.NETCore]
 + Database: [MSSQL]
 + Hosting: [...]
+## Contributors
+**Team Leader:** Elior Pacarada
++ Dita Simnica
++ Arbër Ejupi
++ Jon Salihu
++ Zamira Ahmeti
++ Valdrin Hasallari
++ Agon Koca
++ Amar Zhuri   
+
+
+
+Feel free to reach out to us for any questions, feedback, or support regarding the platform. Thank you for using AppointEase!
+
+
